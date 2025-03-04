@@ -27,7 +27,7 @@ if settings.dfjk then
 				right = {"axis:leftx+", "button:dpright", "key:right"},
 				confirm = {"button:b", "key:return"},
 				back = {"button:a", "key:escape"},
-				simoc = {"button:select", "key:s"},
+				simoc = {"button:back", "key:s"},
 	
 				gameLeft = {"axis:triggerleft+", "axis:leftx-", "axis:rightx-", "button:dpleft", "button:x", "key:d", "key:left"},
 				gameDown = {"axis:lefty+", "axis:righty+", "button:leftshoulder", "button:dpdown", "button:a", "key:f", "key:down"},
@@ -46,7 +46,7 @@ if settings.dfjk then
 				right = {"key:right", "axis:leftx+", "button:dpright"},
 				confirm = {"key:return", "button:a"},
 				back = {"key:escape", "button:b"},
-				simoc = {"key:s", "button:select"},
+				simoc = {"key:s", "button:back"},
 	
 				gameLeft = {"key:d", "key:left", "axis:triggerleft+", "axis:leftx-", "axis:rightx-", "button:dpleft", "button:x"},
 				gameDown = {"key:f", "key:down", "axis:lefty+", "axis:righty+", "button:leftshoulder", "button:dpdown", "button:a"},
